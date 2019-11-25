@@ -51,5 +51,8 @@
 //    alert(arrays[i]);
 //}
 
+//CONSOLE.LOG
+//Exibe no console do google
 
+console.log("Olá Mundo");
 
